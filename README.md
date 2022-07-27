@@ -1,3 +1,3 @@
 # OtherUtilityCode
 
-several scripts maybe useful.
+some scripts maybe useful.
